@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - tree
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: shadow
+    uniqueID: 3959424883
+    locked: 0
+  - name: background
+    uniqueID: 4123872995
+    locked: 0
+  - name: backgroundObject
+    uniqueID: 1629016955
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: item
+    uniqueID: 1548325507
+    locked: 0
+  - name: tree
+    uniqueID: 2772425093
+    locked: 0
